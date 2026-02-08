@@ -51,6 +51,11 @@
   }
 
   .search-form {
+    padding-top: 20%;
+    flex-direction: column;
+  }
+
+  .search-form {
     margin-bottom: 1rem;
   }
 }

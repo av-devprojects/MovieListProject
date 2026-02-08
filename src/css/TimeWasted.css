@@ -7,7 +7,11 @@
 
 @media (max-width: 639px) {
   .wasted {
-    margin-top: 20%;
+    margin-top: 30%;
+  }
+
+  .wasted-empty p {
+    margin-top: 30%;
   }
 }
 

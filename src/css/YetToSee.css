@@ -7,8 +7,12 @@
 
 @media (max-width: 639px) {
   .see {
-    margin-top: 20%;
+    margin-top: 30%;
   }
+
+  .see-empty p {
+    margin-top: 30%;
+  } 
 }
 
 .see-empty p {
